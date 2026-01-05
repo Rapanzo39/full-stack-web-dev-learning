@@ -23,4 +23,5 @@ The menu includes navigation options such as Events, Gallery, Shortcuts, Exhibit
 - Make the menu fully responsive
 
 ## 📷 Preview
-![Hamburger Menu Screenshot](screenshot.jpg)
+[![Hamburger Menu Screenshot](css/projects/hamburger-menu/screenshot.jpg)](css/projects/hamburger-menu/screenshot.jpg)
+
