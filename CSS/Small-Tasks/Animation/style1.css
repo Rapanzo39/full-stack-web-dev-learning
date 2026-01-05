@@ -1,0 +1,60 @@
+.face{
+    width:200px;
+    height:200px;
+    background-color: orange;
+    border-radius: 50%;
+    border : 2px solid black;
+
+}
+
+.mouth{
+    width: 90px;
+    height: 30px;
+    border-radius: 0 0 50px 50px;
+    background-color: brown;
+    position: absolute ;
+    top: 130px;
+    left: 65px;
+}
+
+.left {
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 60px;
+    left: 55px;
+}
+
+.right{
+    height:30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 60px;
+    left: 130px;
+}
+
+@keyframes blink {
+  0%, 90%, 100% { transform: scaleY(1); }
+  95% { transform: scaleY(0.1); }
+}
+.left, .right {
+  animation: blink 2s infinite;
+}
+
+@keyframes smile{
+    0%, 100%
+     { border-radius: 0 0 50px 50px;
+       
+     }
+     50%{
+        border-radius: 50px 50px 0 0;
+     }
+    
+}
+.mouth{
+    animation: smile 3s infinite;
+}
