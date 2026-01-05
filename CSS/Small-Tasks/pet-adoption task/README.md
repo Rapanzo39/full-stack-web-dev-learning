@@ -22,5 +22,5 @@ The website showcases pets available for adoption with a clean card-based layout
 ---
 
 ## screenshot
-![AdoptMe Homepage](screenshots/homepage.png)
+![AdoptMe Homepage](screenshot/homepage.png.png)
 
