@@ -1,5 +1,5 @@
-# This folder contains my JavaScript practice from basic to advanced.
-# I am learning and practicing different JavaScript concepts step by step and organizing them topic-wise.
+#This folder contains my JavaScript practice from basic to advanced.
+#I am learning and practicing different JavaScript concepts step by step and organizing them topic-wise.
 
 # Topics Covered
 
