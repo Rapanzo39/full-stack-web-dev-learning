@@ -16,11 +16,11 @@ It is designed to demonstrate fundamental concepts of graphics, shapes, and basi
 
 ## 🎥 Demo
 You can check the animation demo here:
-[Watch Demo](./assets/animation-video1.mp4)
+[Watch Demo](./assets/Animation-video1.mp4)
 
 ## 🎥 Demo
 You can check the animation demo here:
-[Watch Demo](./assets/animation-video2.mp4)
+[Watch Demo](./assets/Animation-video2.mp4)
 
 
 ## 🛠️ Technologies Used
